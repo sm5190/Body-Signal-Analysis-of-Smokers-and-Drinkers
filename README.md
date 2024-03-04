@@ -10,7 +10,5 @@ This project encompasses a thorough analysis of machine learning methodologies a
 
 The project's comprehensive analyses have uncovered key insights into both regression and classification aspects, leading to informed recommendations for future work and strategies based on the dataset's characteristics and patterns . The combination of multiple classifiers and clustering algorithms ensures a well-rounded understanding of the data's structure and relationships, with recommendations for further improvements and model enhancements derived from a deep analysis of both supervised and unsupervised learning techniques .
 
-In conclusion, the project's statistical analysis ensures the reliability and relevance of the findings, providing a solid foundation for future research and advancements in the field of machine learning 
-
-    .
+In conclusion, the project's statistical analysis ensures the reliability and relevance of the findings, providing a solid foundation for future research and advancements in the field of machine learning.
 
